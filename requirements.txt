@@ -1,0 +1,14 @@
+streamlit>=1.20
+langchain>=0.0.200
+faiss-cpu
+sentence-transformers>=2.2.2
+python-multipart
+requests
+beautifulsoup4
+readability-lxml
+pdfplumber
+python-docx
+tqdm
+pydantic
+typing_extensions
+pytest
